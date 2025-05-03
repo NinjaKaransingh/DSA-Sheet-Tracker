@@ -8,7 +8,7 @@ function Dashboard() {
   const fetchTopics = async () => {
     try {
       const token = localStorage.getItem('token');
-      const res = await axios.get('http://localhost:5000/api/topics', {
+      const res = await axios.get('https://dsa-sheet-tracker-ul2c.onrender.com/api/topics', {
         headers: { Authorization: `Bearer ${token}` },
       });
       setTopics(res.data);
@@ -20,7 +20,7 @@ function Dashboard() {
   const fetchCompletedProblems = async () => {
     try {
       const token = localStorage.getItem('token');
-      const res = await axios.get('http://localhost:5000/api/auth/user', {
+      const res = await axios.get('https://dsa-sheet-tracker-ul2c.onrender.com/api/auth/user', {
         headers: { Authorization: `Bearer ${token}` },
       });
       setCompleted(res.data.completedProblems);
@@ -33,7 +33,7 @@ function Dashboard() {
     try {
       const token = localStorage.getItem('token');
       await axios.post(
-        'http://localhost:5000/api/topics/complete',
+        'https://dsa-sheet-tracker-ul2c.onrender.com/api/topics/complete',
         { problemId },
         { headers: { Authorization: `Bearer ${token}` } }
       );
