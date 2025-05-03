@@ -1,0 +1,83 @@
+[
+    {
+      "title": "Longest Palindromic Substring",
+      "youtubeLink": "https://www.youtube.com/watch?v=XYQecbcd6_c",
+      "leetcodeLink": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "codeforcesLink": "https://codeforces.com/problemset/problem/835/D",
+      "articleLink": "https://leetcode.com/problems/longest-palindromic-substring/solutions/",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Two Sum",
+      "youtubeLink": "https://www.youtube.com/watch?v=KLlXCFG5TnA",
+      "leetcodeLink": "https://leetcode.com/problems/two-sum/",
+      "codeforcesLink": "https://codeforces.com/problemset/problem/110/A",
+      "articleLink": "https://leetcode.com/problems/two-sum/solutions/",
+      "difficulty": "Easy"
+    },
+    {
+      "title": "Merge Intervals",
+      "youtubeLink": "https://www.youtube.com/watch?v=44H3cEC2fFM",
+      "leetcodeLink": "https://leetcode.com/problems/merge-intervals/",
+      "codeforcesLink": "https://codeforces.com/problemset/problem/1006/C",
+      "articleLink": "https://leetcode.com/problems/merge-intervals/solutions/",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Median of Two Sorted Arrays",
+      "youtubeLink": "https://www.youtube.com/watch?v=LPFhl65R7ww",
+      "leetcodeLink": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "codeforcesLink": "https://codeforces.com/problemset/problem/798/B",
+      "articleLink": "https://leetcode.com/problems/median-of-two-sorted-arrays/solutions/",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "Reverse Linked List",
+      "youtubeLink": "https://www.youtube.com/watch?v=O0By4Zq0OFc",
+      "leetcodeLink": "https://leetcode.com/problems/reverse-linked-list/",
+      "codeforcesLink": "https://codeforces.com/problemset/problem/1324/C",
+      "articleLink": "https://leetcode.com/problems/reverse-linked-list/solutions/",
+      "difficulty": "Easy"
+    },
+    {
+      "title": "Next Permutation",
+      "youtubeLink": "https://www.youtube.com/watch?v=quAS1iydq7U",
+      "leetcodeLink": "https://leetcode.com/problems/next-permutation/",
+      "codeforcesLink": "https://codeforces.com/problemset/problem/115/A",
+      "articleLink": "https://leetcode.com/problems/next-permutation/solutions/",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Minimum Number of Platforms",
+      "youtubeLink": "https://www.youtube.com/watch?v=2Rl6zE5Xz7o",
+      "leetcodeLink": "https://leetcode.com/discuss/interview-question/370112/",
+      "codeforcesLink": "https://codeforces.com/problemset/problem/1036/B",
+      "articleLink": "https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaystation/",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Trapping Rain Water",
+      "youtubeLink": "https://www.youtube.com/watch?v=UZG3-vZlFM4",
+      "leetcodeLink": "https://leetcode.com/problems/trapping-rain-water/",
+      "codeforcesLink": "https://codeforces.com/problemset/problem/1182/A",
+      "articleLink": "https://leetcode.com/problems/trapping-rain-water/solutions/",
+      "difficulty": "Hard"
+    },
+    {
+      "title": "Detect Cycle in a Linked List",
+      "youtubeLink": "https://www.youtube.com/watch?v=2Kd0KKmmHFc",
+      "leetcodeLink": "https://leetcode.com/problems/linked-list-cycle/",
+      "codeforcesLink": "https://codeforces.com/problemset/problem/510/A",
+      "articleLink": "https://leetcode.com/problems/linked-list-cycle/solutions/",
+      "difficulty": "Easy"
+    },
+    {
+      "title": "Longest Consecutive Sequence",
+      "youtubeLink": "https://www.youtube.com/watch?v=P6RZZMu_maU",
+      "leetcodeLink": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "codeforcesLink": "https://codeforces.com/problemset/problem/758/A",
+      "articleLink": "https://leetcode.com/problems/longest-consecutive-sequence/solutions/",
+      "difficulty": "Hard"
+    }
+  ]
+  
